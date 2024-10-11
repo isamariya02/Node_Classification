@@ -2,9 +2,12 @@
 Node Classification with Graph Convolutional Networks (Graph Analytics)
 
 Overview
+
 This project applies Graph Convolutional Networks (GCNs) to an Amazon product dataset, where nodes represent products and edges capture relationships between them. The goal is to improve node classification accuracy and uncover latent structures in the graph, enhancing product recommendations and understanding node relationships.
 
+
 Key Objectives
+
 Node Classification using GCNs.
 Dimensionality Reduction with t-SNE for visualization.
 Graph Embedding for efficient classification and analysis.
